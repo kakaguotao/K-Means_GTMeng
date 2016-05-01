@@ -10,10 +10,9 @@
 import numpy
 import random
 import scipy.io as sio
-import json
 
 
-#The number is classes
+#The number of classes
 K=10
 
 #Read the data
