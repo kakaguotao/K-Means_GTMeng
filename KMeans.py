@@ -3,7 +3,7 @@
 #Author: Guotao Meng
 #Email: kakaguotao@hotmail.com
 #Time: May, 2016
-#This is for fun!! Just for practice!
+#This is just for fun!!
 #the input should be a N*M ".mat" file. Where M is the number of samples and N is the dimension of each sample.
 
 
